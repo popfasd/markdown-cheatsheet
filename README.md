@@ -102,6 +102,8 @@ This is a paragraph that contains a [link](http://www.longurlmaker.com/go?id=015
 to some cool stuff on the Internet.
 ```
 
+### Reference-style links
+
 Alternatively, you can use reference-style links. This allows you to define the
 link reference in the document and then use the reference to make a link. Two
 advantages to this method are that you can define a link once and reference it
