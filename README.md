@@ -87,6 +87,10 @@ Lists
 Links
 -----
 
+### Regular links
+
+    [link body](link URL)
+
 A link consists of two parts, the link body, and the link URL. It's best
 practice to have descriptive body text. "World Cup finals results" is better
 than "Click here" as it describes what information the user will find when they
@@ -103,6 +107,12 @@ to some cool stuff on the Internet.
 ```
 
 ### Reference-style links
+
+```
+[link body][link-ref]
+
+[link-ref]: link URL
+```
 
 Alternatively, you can use reference-style links. This allows you to define the
 link reference in the document and then use the reference to make a link. Two
