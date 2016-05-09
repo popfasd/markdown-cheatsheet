@@ -95,13 +95,11 @@ click on the link.
 A normal link in markdown looks like `[link body](link URL)`.
 
 This is a paragraph that contains a [link](http://www.longurlmaker.com/go?id=015nSitelutionsw1oMetamark0179331outstretchedsustainedfar%2BoffURL)
-that makes the markdown a little harder to read. Instead, we can use a
-reference-style link to clean things up.
+to some cool stuff on the Internet.
 
 ```
 This is a paragraph that contains a [link](http://www.longurlmaker.com/go?id=015nSitelutionsw1oMetamark0179331outstretchedsustainedfar%2BoffURL)
-that makes the markdown a little harder to read. Instead, we can use a
-reference-style link to clean things up.
+to some cool stuff on the Internet.
 ```
 
 Alternatively, you can use reference-style links. This allows you to define the
