@@ -92,27 +92,22 @@ practice to have descriptive body text. "World Cup finals results" is better
 than "Click here" as it describes what information the user will find when they
 click on the link.
 
-A normal link in markdown looks like `[link body](link URL)`. The "World Cup
-finals results" link might look like:
+A normal link in markdown looks like `[link body](link URL)`.
 
-    [World Cup finals results](http://worldcup.com/finals/results)
-     |----------------------|  |--------------------------------|
-            link body                       link URL
+This is a paragraph that contains a [link](http://www.longurlmaker.com/go?id=015nSitelutionsw1oMetamark0179331outstretchedsustainedfar%2BoffURL)
+that makes the markdown a little harder to read. Instead, we can use a
+reference-style link to clean things up.
+
+```
+This is a paragraph that contains a [link](http://www.longurlmaker.com/go?id=015nSitelutionsw1oMetamark0179331outstretchedsustainedfar%2BoffURL)
+that makes the markdown a little harder to read. Instead, we can use a
+reference-style link to clean things up.
+```
 
 Alternatively, you can use reference-style links. This allows you to define the
 link reference in the document and then use the reference to make a link. Two
 advantages to this method are that you can define a link once and reference it
 many times, and it can make text containing links more readable.
-
-This is a paragraph that contains a [link](http://www.longurlmaker.com/go?id=015nSitelutionsw1oMetamark0179331outstretchedsustainedfar%2BoffURL)
-that makes the markdown a little harder to read. Instead, we can use a
-reference-style link to clean things up.
-
-```
-This is a paragraph that contains a [link](http://www.longurlmaker.com/go?id=015nSitelutionsw1oMetamark0179331outstretchedsustainedfar%2BoffURL)
-that makes the markdown a little harder to read. Instead, we can use a
-reference-style link to clean things up.
-```
 
 This is a paragraph that contains a reference-style [link][link-ref] which links
 to the same URL, but is easier to read when viewing the markdown. The link URL
