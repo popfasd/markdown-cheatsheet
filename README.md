@@ -116,8 +116,22 @@ This is a paragraph that contains a [link](http://www.longurlmaker.com/go?id=015
 that makes the markdown a little harder to read. Instead, we can use a
 reference-style link to clean things up.
 
+```
+This is a paragraph that contains a [link](http://www.longurlmaker.com/go?id=015nSitelutionsw1oMetamark0179331outstretchedsustainedfar%2BoffURL)
+that makes the markdown a little harder to read. Instead, we can use a
+reference-style link to clean things up.
+```
+
 This is a paragraph that contains a reference-style [link][link-ref] which links
 to the same URL, but is easier to read when viewing the markdown. The link URL
 is defined below this paragraph with the ID "link-ref".
 
 [link-ref]: http://www.longurlmaker.com/go?id=015nSitelutionsw1oMetamark0179331outstretchedsustainedfar%2BoffURL
+
+```
+This is a paragraph that contains a reference-style [link][link-ref] which links
+to the same URL, but is easier to read when viewing the markdown. The link URL
+is defined below this paragraph with the ID "link-ref".
+
+[link-ref]: http://www.longurlmaker.com/go?id=015nSitelutionsw1oMetamark0179331outstretchedsustainedfar%2BoffURL
+```
