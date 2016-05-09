@@ -104,14 +104,6 @@ link reference in the document and then use the reference to make a link. Two
 advantages to this method are that you can define a link once and reference it
 many times, and it can make text containing links more readable.
 
-    [World Cup finals results][wcf-results]
-     |----------------------|  |---------|
-            link body           link ref
-
-    [wcf-results]: http://worldcup.com/finals/results
-     |---------|   |--------------------------------|
-      link ref                 link URL
-
 This is a paragraph that contains a [link](http://www.longurlmaker.com/go?id=015nSitelutionsw1oMetamark0179331outstretchedsustainedfar%2BoffURL)
 that makes the markdown a little harder to read. Instead, we can use a
 reference-style link to clean things up.
